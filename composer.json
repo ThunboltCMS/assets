@@ -1,0 +1,12 @@
+{
+	"name": "thunbolt/assets",
+	"type": "library",
+	"require": {
+		"php": ">= 7.1"
+	},
+	"autoload": {
+		"psr-4": {
+			"Thunbolt\\Assets\\": ["src/"]
+		}
+	}
+}
